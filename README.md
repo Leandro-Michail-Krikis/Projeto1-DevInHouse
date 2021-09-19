@@ -3,7 +3,7 @@ Leandro da Silva
 ## About The Project
 I am a student of the 3rd edition of DevInHouse, this is the first project of the first trimester of the course.
 Our objective was to make a to-do-list using HTMl, CSS, JS. 
-###The requirements were
+### The requirements were
 * A title in the browser tab, so that the user can find your application among the various tabs that it constantly keeps open.
 * A header inside the page, so the user can easily know what page they are on and what the content is about.
 * A text field to enter the name of a new activity to be added to the list.
